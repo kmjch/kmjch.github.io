@@ -8,7 +8,7 @@ description: Michelle Kim, Software Engineer
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: static/profile.jpg
+picture: assets/images/profile.jpg
 
 url: https://kmjch.github.io
 
@@ -49,7 +49,7 @@ authors:
         name: Michelle Kim
         bio: Software Engineer
         external-image: false
-        picture: static/profile.jpg
+        picture: assets/images/profile.jpg
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
