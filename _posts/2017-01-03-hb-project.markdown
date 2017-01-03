@@ -2,7 +2,7 @@
 title: "Hackbright Project: Eat Together"
 layout: post
 date: 2017-01-03 08:00
-image: /static/et1.gif
+image: /static/profile.gif
 headerImage: true
 projects: true
 tag:
@@ -48,6 +48,7 @@ It's been [deployed to Heroku](https://eatog.herokuapp.com/), but it runs pretty
 ___
 
 ## GIFs
-![../static/et2.gif]()
-![../static/et3.gif]()
-![../static/et4.gif]()
+![Filling out the form generates a list of search results from Yelp and generates markers on the Google Map](../static/et1.gif)
+![You can log a visit to a restaurant by rating it, recording the date of the visit, and saving it to your profile - which on the back-end, saves this information to the PostgreSQL database](../static/et2.gif)
+![The search results are dynamically-generated Yelp links, and the map markers are embedded with Yelp restaurant information](../static/et3.gif)
+![](../static/et4.gif)
