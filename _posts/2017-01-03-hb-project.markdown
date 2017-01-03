@@ -52,3 +52,12 @@ ___
 ![You can log a visit to a restaurant by rating it, recording the date of the visit, and saving it to your profile - which on the back-end, saves this information to the PostgreSQL database](../static/et2.gif)
 ![The search results are dynamically-generated Yelp links, and the map markers are embedded with Yelp restaurant information](../static/et3.gif)
 ![Your profile page shows a query on your username from the PostgreSQL database on all of your past visits, and uses a simple euclidean distance formula to calculate another restaurant in the database whose numeric data is most similar to your most recently highly rated restaurant](../static/et4.gif)
+
+___
+
+## Future planned improvements
+Up next for ET:
+- Groups of 3 or more can search for a location
+- Use the K-nearest-neighbors algorithm to identify similar restaurants that the user has not visited
+- Add functionality to the table to allow filtering of past visit view by person user visited with, date, rating
+- Add graphics on top of the map to visualize the midpoint formula and venn diagram methods of searching for a good location to meet up.
