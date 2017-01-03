@@ -9,7 +9,6 @@ tag:
 - hackbright
 - project
 - python
-blog: true
 author: michellekim
 description: Hackbright project description
 ---
