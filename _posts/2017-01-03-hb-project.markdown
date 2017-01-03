@@ -3,7 +3,8 @@ title: "Hackbright Project: Eat Together"
 layout: post
 date: 2017-01-03 08:00
 image: /static/et1.gif
-headerImage: false
+headerImage: true
+projects: true
 tag:
 - hackbright
 - project
