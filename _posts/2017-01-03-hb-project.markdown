@@ -65,8 +65,6 @@ Your profile page shows a query on your username from the PostgreSQL database on
 ___
 
 ## Future planned improvements
-Up next for ET:
-
 - Groups of 3 or more can search for a location
 - Use the K-nearest-neighbors algorithm to identify similar restaurants that the user has not visited
 - Add functionality to the table to allow filtering of past visit view by person user visited with, date, rating
