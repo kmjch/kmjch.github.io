@@ -6,4 +6,4 @@ layout: page
 
 <p></p>
 
-![Resume](assets/resume.jpg)
+![Resume](assets/resume.jpg?raw=true)
