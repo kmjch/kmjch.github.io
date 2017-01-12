@@ -35,9 +35,9 @@ disqus: false
 # pinterest: mypinterest
 linkedin: kmjch
 # youtube: myyoutube
-# spotify: myspotify
+# spotify: jmichellekim
 github: kmjch
-# stackoverflow: 7044681/mystackoverflow
+# stackoverflow: 7347616/michelle-kim
 # quora: userquora
 # reddit: username
 # medium: medium
@@ -63,8 +63,8 @@ width: normal
 # if you don't need projects, comment the *projects* configs below
 projects: true
 
-# if you don't need "about" or "blog", comment them out below
-# about: false
+# if you don't need "resume" or "blog", comment them out below
+resume: true
 # blog: true
 
 # do you want to show the "read time" of the posts?
