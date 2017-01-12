@@ -4,5 +4,12 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p></p>
-![Resume](https://raw.githubusercontent.com/kmjch/kmjch.github.io/master/assets/resume.jpg?raw=true)
+## Michelle's Resume:
+
+<div id="resume"></div>
+<script src="/js/pdfobject.js"></script>
+<script>PDFObject.embed("./assets/MK_Resume.pdf", "#resume");</script>
+<style>
+.pdfobject-container { height: 500px;}
+.pdfobject { border: 1px solid #666; }
+</style>
