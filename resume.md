@@ -7,9 +7,15 @@ layout: page
 ## Michelle's Resume:
 
 <div id="resume"></div>
-<script src="/js/pdfobject.js"></script>
-<script>PDFObject.embed("./assets/MK_Resume.pdf", "#resume");</script>
+<script src="https://raw.githubusercontent.com/pipwerks/PDFObject/master/pdfobject.min.js"></script>
+<script>
+  PDFObject.embed("https://raw.githubusercontent.com/kmjch/kmjch.github.io/0117dbacffe84c47039b6047b95f03a674bf1338/assets/MK_Resume.pdf", "resume");
+</script>
 <style>
 .pdfobject-container { height: 500px;}
-.pdfobject { border: 1px solid #666; }
 </style>
+
+
+<object data="https://raw.githubusercontent.com/kmjch/kmjch.github.io/0117dbacffe84c47039b6047b95f03a674bf1338/assets/MK_Resume.pdf" type="application/pdf" width="80%" height="80%">
+   <p><b>Example fallback content</b>: This browser does not support PDFs. Please download the PDF to view it: <a href="https://raw.githubusercontent.com/kmjch/kmjch.github.io/0117dbacffe84c47039b6047b95f03a674bf1338/assets/MK_Resume.pdf">Download PDF</a>.</p>
+</object>
