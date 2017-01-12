@@ -3,7 +3,7 @@ title: Resume
 layout: page
 ---
 
-## Michelle's Resume:
+## Michelle's Resume
 
 Click the image below to download the resume in PDF format.
 
