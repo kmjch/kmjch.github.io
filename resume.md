@@ -6,4 +6,4 @@ layout: page
 
 ## Michelle's Resume:
 
-<img src="./assets/resume.jpg" width="80%">
+<img src="./assets/images/resume.jpg" width="80%">
