@@ -6,4 +6,4 @@ layout: page
 
 <p></p>
 
-![Resume](assets/MK_resume.pdf)
+![Resume](assets/resume.jpg)
