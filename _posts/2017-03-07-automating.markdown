@@ -33,7 +33,6 @@ One way to speed up daily routines, or at least make it fun: making command-line
 ```alias mcs='open -a "Google Chrome" https://www.youtube.com/user/mycodeschool/playlists'
 ```
 
-
 ```alias mov_sc='open -a "Spotify" https://open.spotify.com/user/jmichellekim/playlist/5I12pB2PExI0YNbU2tEbhd'
 ```
 
