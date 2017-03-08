@@ -5,6 +5,7 @@ date: 2017-01-03 08:00
 image: /assets/images/profile.jpg
 headerImage: false
 projects: true
+blog: false
 tag:
 - hackbright
 - project

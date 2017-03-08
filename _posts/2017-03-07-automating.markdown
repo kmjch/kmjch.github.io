@@ -4,6 +4,7 @@ layout: post
 date: 2017-03-07 16:30
 image: /assets/images/profile.jpg
 headerImage: false
+blog: true
 projects: false
 tag:
 - shortcuts
