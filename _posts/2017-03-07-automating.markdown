@@ -30,11 +30,12 @@ One way to speed up daily routines, or at least make it fun: making command-line
 1. [From this page](http://apple.stackexchange.com/questions/83630/create-a-terminal-command-to-open-file-with-chrome), I found that you can just use the application name with `'open' -a` and a link to whatever you want the application to open.  This works with opening Spotify with a Spotify URL, such as that of a playlist! Examples:
 
 
-```alias mcs='open -a "Google Chrome" https://www.youtube.com/user/mycodeschool/playlists'
+
+`alias mcs='open -a "Google Chrome" https://www.youtube.com/user/mycodeschool/playlists'`
 
 
-alias mov_sc='open -a "Spotify" https://open.spotify.com/user/jmichellekim/playlist/5I12pB2PExI0YNbU2tEbhd'
-```
+`alias mov_sc='open -a "Spotify" https://open.spotify.com/user/jmichellekim/playlist/5I12pB2PExI0YNbU2tEbhd'`
+
 
 
 Save bash_profile and try it out:
