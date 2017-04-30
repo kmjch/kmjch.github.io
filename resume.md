@@ -33,7 +33,7 @@ Relevant courses: Programming Structures (Python) and Data Structures (Java)
 
 Education
 ------
-__GIS Technician | Apple via Apex Systems, Jun 2016 – Sep 2016 | Sunnyvale, CA__  
+__GIS Technician | Apple via Apex Systems, Jun – Sep 2016 | Sunnyvale, CA__  
 Improved Apple Maps spatial data  
 
 __Selected College Internships and Jobs | 2014 - 2015 | Berkeley, CA__  
