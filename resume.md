@@ -18,7 +18,7 @@ Projects
 __Eat Together | Hackbright Academy, Nov 2016__  
 A web application that combines two friends’ locations and search preferences into one search on Yelp and displays recommended locations on a map.  
 APIs used: Yelp, Google Maps (JavaScript, Distance Matrix)  
-
+  
 __Selected College Course Projects | UC Berkeley, 2015, 2016__  
 Implemented a circular, double-ended queue in Java, Feb 2016  
 Scheme Interpreter in Python, Nov 2015  
