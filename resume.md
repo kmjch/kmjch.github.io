@@ -15,7 +15,7 @@ __Database/Industry Tools__ Git, Heroku, PostgreSQL
 
 Projects
 ------
-__Eat Together | Hackbright Academy, Nov 2016__  
+__[Eat Together](https://eatog.herokuapp.com) | Hackbright Academy, Nov 2016__  
 A web application that combines two friends’ locations and search preferences into one search on Yelp and displays recommended locations on a map.  
 APIs used: Yelp, Google Maps (JavaScript, Distance Matrix)  
   
