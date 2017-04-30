@@ -36,6 +36,6 @@ Education
 __GIS Technician | Apple via Apex Systems, Jun 2016 – Sep 2016 | Sunnyvale, CA__  
 Improved Apple Maps spatial data  
 
-__Selected College Internships and Jobs | Berkeley, CA__  
+__Selected College Internships and Jobs | 2014 - 2015 | Berkeley, CA__  
 Intern at business location analysis startup Hitmap, Oct – Nov 2015  
 Technical support and troubleshooting for 900+ students, staff at College of Environmental Design, Apr 2014 – May 2015, and for 45+ faculty at Summer English Language Studies, Jun – Aug 2014
