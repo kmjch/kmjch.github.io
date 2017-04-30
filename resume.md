@@ -31,7 +31,7 @@ __Software Engineering Fellowship | Hackbright Academy, Sep – Dec 2016__
 __B.A. Geography | UC Berkeley, Aug 2013 – May 2016__  
 Relevant courses: Programming Structures (Python) and Data Structures (Java)
 
-Education
+Work Experience
 ------
 __GIS Technician | Apple via Apex Systems, Jun – Sep 2016 | Sunnyvale, CA__  
 Improved Apple Maps spatial data  
