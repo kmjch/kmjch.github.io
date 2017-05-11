@@ -9,7 +9,7 @@ jmichkim@gmail.com | [kmjch.github.io](https://kmjch.github.io) | [github.com/km
 
 Skills
 ------
-__Languages__ Python, Java, JavaScript, SQL  
+__Languages__ Python, JavaScript, SQL  
 __Frameworks/Libraries__ Flask, Jinja, jQuery  
 __Database/Industry Tools__ Git, Heroku, PostgreSQL  
 
