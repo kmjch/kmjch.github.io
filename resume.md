@@ -3,19 +3,18 @@ title: Resume
 layout: page
 ---
 
-# Michelle Kim
+Michelle Kim
+------
 ###### SOFTWARE ENGINEER
 jmichkim@gmail.com | [kmjch.github.io](https://kmjch.github.io) | [github.com/kmjch](https://www.github.com/kmjch)
 
-Skills
-------
-__Languages__ Python, Java, JavaScript, SQL  
+### Skills
+__Languages__ Python, JavaScript, SQL  
 __Frameworks/Libraries__ Flask, Jinja, jQuery  
 __Database/Industry Tools__ Git, Heroku, PostgreSQL  
 
-Projects
-------
-__Eat Together | Hackbright Academy, Nov 2016__  
+### Projects
+__[Eat Together](https://eatog.herokuapp.com) | Hackbright Academy, Nov 2016__  
 A web application that combines two friends’ locations and search preferences into one search on Yelp and displays recommended locations on a map.  
 APIs used: Yelp, Google Maps (JavaScript, Distance Matrix)  
   
@@ -24,15 +23,13 @@ Implemented a circular, double-ended queue in Java, Feb 2016
 Scheme Interpreter in Python, Nov 2015  
 Helped Buddy the Elf locate a suitable tree with ESRI ArcGIS, Dec 2015  
 
-Education
-------
+### Education
 __Software Engineering Fellowship | Hackbright Academy, Sep – Dec 2016__  
 
 __B.A. Geography | UC Berkeley, Aug 2013 – May 2016__  
 Relevant courses: Programming Structures (Python) and Data Structures (Java)
 
-Education
-------
+### Work Experience
 __GIS Technician | Apple via Apex Systems, Jun – Sep 2016 | Sunnyvale, CA__  
 Improved Apple Maps spatial data  
 
