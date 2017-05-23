@@ -1,0 +1,17 @@
+---
+title: "Moved To WordPress"
+layout: post
+date: 2017-05-23 14:30
+image: /assets/images/profile.jpg
+headerImage: false
+blog: true
+projects: false
+tag:
+- update
+author: michellekim
+description: Moved to WordPress
+---
+
+
+
+#### [Check out my WordPress page for more blog posts!](https://kmjch.wordpress.com/)
