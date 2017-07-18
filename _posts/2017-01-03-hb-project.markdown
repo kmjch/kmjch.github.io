@@ -46,7 +46,7 @@ Eat Together helps two people decide on a place to to share a meal together. Eac
 ---
 
 ## Updates
-It's been [deployed to Heroku](https://eatog.herokuapp.com/), but it runs pretty slowly.  If, upon loading, the Google Map does not display, press `cmd+shift+r`.  I've put aside further development on Eat Together until after I progress further in my newer projects.
+It's been [deployed to Heroku](https://eatog.herokuapp.com/), but it loads pretty slowly and is buggy right now as I refactor it.  If, upon loading, the Google Map does not display, press `cmd+shift+r`.
 
 ___
 
