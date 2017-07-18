@@ -5,7 +5,7 @@ layout: page
 
 Michelle Kim  
 ------
-###### PEOPLE-ORIENTED PROFESSIONAL WHO LOVES TECH, PROBLEM SOLVING + HELPING OTHERS  
+###### GEOGRAPHER WITH EXPERIENCE IN GEOGRAPHIC INFORMATION SYSTEMS AND SOFTWARE ENGINEERING  
 ####jmichkim@gmail.com | [kmjch.github.io](https://kmjch.github.io) | [github.com/kmjch](https://www.github.com/kmjch) | [linkedin.com/in/kmjch](https://www.linkedin.com/in/kmjch)  
 
 
