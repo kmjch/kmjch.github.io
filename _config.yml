@@ -1,9 +1,9 @@
 # main text of home
 name: Michelle Kim
-bio: Software Engineer
+bio: Seeking Opportunities in the Bay Area
 
 # twitter summary info
-description: Michelle Kim, Software Engineer
+description: Michelle Kim
 
 # if it's an external image, update below for true
 # better with square images
@@ -47,7 +47,7 @@ email: jmichkim@gmail.com
 authors:
     michellekim:
         name: Michelle Kim
-        bio: Software Engineer
+        bio: Seeking Opportunities in the Bay Area
         external-image: false
         picture: assets/images/profile.jpg
 
