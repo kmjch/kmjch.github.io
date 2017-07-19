@@ -5,8 +5,8 @@ layout: page
 
 Michelle Kim  
 ------
-###### GEOGRAPHER WITH EXPERIENCE IN GEOGRAPHIC INFORMATION SYSTEMS AND SOFTWARE ENGINEERING  
-#### jmichkim@gmail.com | [kmjch.github.io](https://kmjch.github.io) | [GitHub](https://www.github.com/kmjch) | [LinkedIn](https://www.linkedin.com/in/kmjch)  
+##### GEOGRAPHER WITH EXPERIENCE IN GEOGRAPHIC INFORMATION SYSTEMS AND SOFTWARE ENGINEERING  
+##### jmichkim@gmail.com | [kmjch.github.io](https://kmjch.github.io) | [GitHub](https://www.github.com/kmjch) | [LinkedIn](https://www.linkedin.com/in/kmjch)  
 
 
 ### Work Experience
