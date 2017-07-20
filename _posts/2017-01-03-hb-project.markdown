@@ -18,7 +18,7 @@ description: Hackbright project description
 
 ## Summary:
 
-This was my project at Hackbright Academy, spanning 4 weeks during the Software Engineering Fellowship.  See the [GitHub repo](https://github.com/kmjch/HB-project)
+This was my project at Hackbright Academy, spanning 4 weeks during the Software Engineering Fellowship.  See the [GitHub repo](https://github.com/kmjch/HB-project)!
 
 #### About [Eat Together](https://github.com/kmjch/HB-project)
 
