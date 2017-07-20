@@ -18,9 +18,9 @@ description: Hackbright project description
 
 ## Summary:
 
-This was my project at Hackbright Academy, spanning 4 weeks during the Software Engineering Fellowship.
+This was my project at Hackbright Academy, spanning 4 weeks during the Software Engineering Fellowship.  See the [GitHub repo](https://github.com/kmjch/HB-project)
 
-#### About Eat Together
+#### About [Eat Together](https://github.com/kmjch/HB-project)
 
 Eat Together helps two people decide on a place to to share a meal together. Each user can input their locations and the types of restaurants they’d like to visit and search on Yelp according to both sets of preferences. The search results are then shown on a map with markers that provide more information about each business in the search results. Users can create accounts and keep track of visits, and Eat Together will provide a recommendation on which restaurant is ‘similar’ to their most highly rated restaurant.
 
