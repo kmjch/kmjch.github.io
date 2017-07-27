@@ -40,7 +40,7 @@ __Database/Industry Tools__ Git, Heroku, PostgreSQL
 __Tools/Software__ Google Apps, ESRI ArcGIS, Adobe InDesign, Adobe Photoshop  
 
 ### Projects  
-__[Eat Together](https://eatog.herokuapp.com) | Nov 2016__  
+__[Eat Together](https://github.com/kmjch/HB-project) | Nov 2016__  
 A web application that combines two friends’ locations and search preferences into one search on Yelp and displays recommended locations on a map.  
   
 __Selected College Course Projects | UC Berkeley | 2015, 2016__  
