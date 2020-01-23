@@ -35,10 +35,10 @@ __B.A. Geography | University of California, Berkeley | Aug 2013 – May 2016__
 Selected courses: Geographic Information Systems, Programming Structures (Python), Data Structures (Java), City and Regional Planning  
 
 ### Skills  
-__Quality Assurance__ Selenium, WebDriverIO, BackstopJS, Testing framework migration, Test triages and script updates, Test planning, Troubleshooting, JIRA, Testing methodologies, Test data creation
-__Full Stack Web Development__ Python, JavaScript, HTML, CSS, Java, SQL
-__Database/Industry Tools & Skills__ PostgreSQL, Git, Heroku, API integrations, Workflow automation
-__Tools/Software__ ESRI ArcGIS, Adobe InDesign, Adobe Photoshop, Spreadsheets
+__Quality Assurance__ Selenium, WebDriverIO, BackstopJS, Testing framework migration, Test triages and script updates, Test planning, Troubleshooting, JIRA, Testing methodologies, Test data creation  
+__Full Stack Web Development__ Python, JavaScript, HTML, CSS, Java, SQL  
+__Database/Industry Tools & Skills__ PostgreSQL, Git, Heroku, API integrations, Workflow automation  
+__Tools/Software__ ESRI ArcGIS, Adobe InDesign, Adobe Photoshop, Spreadsheets  
 
 ### Projects  
 __[Eat Together](https://github.com/kmjch/HB-project) | Nov 2016__  
