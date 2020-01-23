@@ -1,6 +1,6 @@
 # main text of home
 name: Michelle Kim
-bio: Seeking Opportunities in the Bay Area
+bio: Full Stack and Test Automation Engineer
 
 # twitter summary info
 description: Michelle Kim
@@ -47,7 +47,7 @@ email: jmichkim@gmail.com
 authors:
     michellekim:
         name: Michelle Kim
-        bio: Seeking Opportunities in the Bay Area
+        bio: Full Stack and Test Automation Engineer
         external-image: false
         picture: assets/images/profile.jpg
 
