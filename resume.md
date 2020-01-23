@@ -6,7 +6,7 @@ layout: page
 Michelle Kim  
 ------
 ##### TEST AUTOMATION AND QUALITY ASSURANCE ENGINEER / FULL STACK WEB DEVELOPER
-jmichkim@gmail.com | [kmjch.github.io](https://kmjch.github.io) | [GitHub](https://www.github.com/kmjch) | [LinkedIn](https://www.linkedin.com/in/kmjch) | Pittsburgh, PA 15213
+jmichkim@gmail.com | [GitHub](https://www.github.com/kmjch) | [LinkedIn](https://www.linkedin.com/in/kmjch) | Pittsburgh, PA 15213
 
 
 ### Work Experience
