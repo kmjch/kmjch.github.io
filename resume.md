@@ -5,47 +5,41 @@ layout: page
 
 Michelle Kim  
 ------
-##### GEOGRAPHER WITH EXPERIENCE IN GEOGRAPHIC INFORMATION SYSTEMS AND SOFTWARE ENGINEERING  
-jmichkim@gmail.com | [kmjch.github.io](https://kmjch.github.io) | [GitHub](https://www.github.com/kmjch) | [LinkedIn](https://www.linkedin.com/in/kmjch)  
+##### TEST AUTOMATION AND QUALITY ASSURANCE ENGINEER / FULL STACK WEB DEVELOPER
+jmichkim@gmail.com | [kmjch.github.io](https://kmjch.github.io) | [GitHub](https://www.github.com/kmjch) | [LinkedIn](https://www.linkedin.com/in/kmjch) | Pittsburgh, PA 15213
 
 
 ### Work Experience
-__GIS Technician | Apple via Apex Systems, Jun – Sep 2016 | Sunnyvale, CA__  
-Created, analyzed, enhanced, and performed quality assurance reviews for the spatial data used in Apple Maps  
 
-__Intern | Hitmap | Berkeley, CA | Oct – Nov 2015__  
-Intern at business location analysis startup Hitmap, Oct – Nov 2015  
-Technical support and troubleshooting for 900+ students, staff at College of Environmental Design, Apr 2014 – May 2015, and for 45+ faculty at Summer English Language Studies, Jun – Aug 2014  
+__Associate Quality Assurance Engineer | Veeva Systems | Pleasanton, CA | Jun 2018 – Dec 2019__  
+* Automated user interface tests with BackstopJS and functional tests with WebDriverIO and Selenium
+* Devised testing strategies involving integration, regression, sanity, smoke, interface, performance, stress, data-driven and browser compatibility tests to ensure that new key customer-facing features and updates were ready for release
+* Triaged test script failures and filed detailed tickets on JIRA to help developers troubleshoot quickly
+* Added documentation and how-tos to Veeva information pages for automating manual tests
+* Developed tools in Python and JavaScript to make daily tasks more efficient 
 
-__Computer Resource Assistant | Wurster Student Technology Center | Berkeley, CA | Apr 2014 – May 2015__  
-Processed transactions for College of Environmental Design services to 900+ students and faculty  
-Provided maintenance and troubleshooting for 30+ plotters, printers, scanners, and computers  
+__Web Content Developer | Gap, Inc. | San Francisco, CA | Oct 2017 – May 2018__
+* Collaborated with business partners to create, update, and troubleshoot code for responsive and performant pages on Gap Online, including marketing content, store locator, and email signup pages
+* Wrote Python scripts to validate and convert data from a spreadsheet to an HTML document
+* Documented the onboarding process for future hires
 
-__Intern | Montclair Village Association | Oakland, CA | Feb – Apr 2015__  
-Improved efficiency in preparing for a community event by creating online forms, easy-to-read spreadsheets, and letters to contact local sponsors  
-Researched Montclair to report repairs needed in infrastructure for the safety and aesthetics of the neighborhood  
-
-__Technology Support Assistant | Summer English Language Studies | Berkeley, CA | Jun – Aug 2014__  
-Maintained 50+ office computers (Mac and PC) to ensure ease-of-use and up-to-date software  
-Provided software and network support and troubleshooting for 45+ summer faculty  
+__GIS Technician | Apple via Apex Systems | Sunnyvale, CA | Jun – Sep 2016__  
+* Created, analyzed, enhanced, and performed quality assurance reviews for the spatial data used in Apple Maps  
 
 ### Education  
-__B.A. Geography | UC Berkeley | Aug 2013 – May 2016__  
+
+__Software Engineering Fellow | Hackbright Academy | Sep – Dec 2016__
+Selected coursework: Full-stack web development, computer science fundamentals, object-oriented programming, pair programming, industry best practices
+
+__B.A. Geography | University of California, Berkeley | Aug 2013 – May 2016__  
 Selected courses: Geographic Information Systems, Programming Structures (Python), Data Structures (Java), City and Regional Planning  
 
 ### Skills  
-__Coding Languages__ Python, JavaScript, SQL  
-__Frameworks/Libraries__ Flask, jQuery, Bootstrap, Jinja  
-__Database/Industry Tools__ Git, Heroku, PostgreSQL  
-__Tools/Software__ Google Apps, ESRI ArcGIS, Adobe InDesign, Adobe Photoshop  
+__Quality Assurance__ Selenium, WebDriverIO, BackstopJS, Testing framework migration, Test triages and script updates, Test planning, Troubleshooting, JIRA, Testing methodologies, Test data creation
+__Full Stack Web Development__ Python, JavaScript, HTML, CSS, Java, SQL
+__Database/Industry Tools & Skills__ PostgreSQL, Git, Heroku, API integrations, Workflow automation
+__Tools/Software__ ESRI ArcGIS, Adobe InDesign, Adobe Photoshop, Spreadsheets
 
 ### Projects  
 __[Eat Together](https://github.com/kmjch/HB-project) | Nov 2016__  
-A web application that combines two friends’ locations and search preferences into one search on Yelp and displays recommended locations on a map.  
-  
-__Selected College Course Projects | UC Berkeley | 2015, 2016__  
-Implemented a circular, double-ended queue in Java, Feb 2016  
-Scheme Interpreter in Python, Nov 2015  
-Helped Buddy the Elf locate a suitable tree with ESRI ArcGIS, Dec 2015  
-
-
+A web application that combines two friends’ locations and search preferences into one search on Yelp and displays recommended locations on a map.
